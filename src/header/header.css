@@ -1,0 +1,34 @@
+.header{
+    margin-top: 240px;
+
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Kaushan Script', cursive;
+    color: #053c13;
+    top: -50px;
+}
+
+.headerTitleSm{
+    position: absolute;
+    top: 14%;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+
+}
+
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 20px;
+    object-fit: cover;
+}

@@ -3,7 +3,7 @@ export default function Travelling() {
     <div class="card">
       <img class="cardImg" src="images/trav.jpeg" alt=""/>
       <span class="cardTitle">
-        Travelling
+        Traveling
       </span>
       <p class="cardDesc">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda

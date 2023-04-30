@@ -4,6 +4,7 @@ import About from "../../about/About";
 import Cards from "../../cards/Cards";
 
 
+
 export default function Home() {
   return (
    <>
@@ -12,6 +13,6 @@ export default function Home() {
     <div class="home">
       <Cards />
     </div>
-   </>
+  </>
   );
 }
